@@ -12,6 +12,6 @@ def next_permutation_better(arr):
     return arr
 arr = [1,2,3]
 ans = next_permutation_better(arr)
-print(ans)
+print(ans) #Output --> [1, 3, 2]
 #TC --> O(n)
 #SC --> O(1)
